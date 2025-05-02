@@ -186,7 +186,8 @@ The custom CNN model clearly wins in terms of efficiency and deployment readines
 ## 👤 Author
 
 \[Year 2, Applied Deep Learning Assignment, Diploma in AI & Data Engineering, Nanyang Polytechnic]
-\[**Min Phyo Thura**](https://github.com/myriosMin)
+
+[**Min Phyo Thura**](https://github.com/myriosMin)
 
 ---
 
